@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Sherlock7X.github.io/sitemap.xml
