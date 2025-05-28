@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Wencan Xia's Homepage # the website title (if blank, full name will be used instead)
 first_name: Wencan
-middle_name: 
+middle_name:
 last_name: XIA
 contact_note: >
   Welcome to my personal website! Welcome to connect me on LinkedIn, or email me directly.
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -151,7 +151,7 @@ collections:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
