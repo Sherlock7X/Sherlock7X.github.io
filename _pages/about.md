@@ -37,7 +37,7 @@ My research focuses on **quantitative finance**, with a strong emphasis on:
 - **Data-Driven Financial Modeling**
 
 I am currently focused on applying **Reinforcement Learning** to quantitative 
-finance — particularly in optimal hedging and portfolio allocation.
+finance, particularly in optimal hedging and portfolio allocation.
 
 I am also curious about:
 - Generative AI in finance
