@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Mathematics, HKUST</p>
-    <p>Clear Water Bay, Kowloon, Hong Kong</p>
+    <p>Department of Mathematics</p>
+    <p>HKUST, Clear Water Bay </p>
+    <p>Kowloon, Hong Kong</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,16 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Wencan Xia, a PhD candidate in Financial Mathematics at the Hong Kong University of Science and Technology (HKUST) supervised by [Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu). 
+Hi, I am Wencan Xia, a PhD candidate in Financial Mathematics at the Hong Kong 
+University of Science and Technology (HKUST) supervised by 
+[Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu). 
 
 My research focuses on **quantitative finance**, with a strong emphasis on:
 - **Interest Rate Modeling** (post-LIBOR frameworks)
-- **Derivatives Pricing** (fixed income & equity)
-- **Data-Driven Financial Modeling** 
+- **Derivatives Pricing** (fixed income & equity) 
+- **Data-Driven Financial Modeling**
 
-I am currently focus on applying **Reinforcement Learning** to quantitative finance — particularly in optimal hedging, portfolio allocation. 
+I am currently focused on applying **Reinforcement Learning** to quantitative 
+finance — particularly in optimal hedging and portfolio allocation.
 
-I am also curious about generative AI in finance and crypto arbitrage strategies.
+I am also curious about:
+- Generative AI in finance
+- Crypto arbitrage strategies
 
 Welcome to connect me by [email](mailto: wxiaab@connect.ust.hk) or on [Linkedin](https://www.linkedin.com/in/wencan-xia-014143268/).
 
