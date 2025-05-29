@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You can download my CV by click the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Wencan XIA", "_blank");
+          window.open("https://www.linkedin.com/in/wencan-xia-014143268", "_blank");
         },
       },{
         id: 'social-rss',
