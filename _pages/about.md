@@ -27,19 +27,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Wencan Xia, a PhD candidate in Financial Mathematics at the Hong Kong 
-University of Science and Technology (HKUST) supervised by 
-[Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu). 
+Hi, I am Wencan Xia, a PhD candidate in Financial Mathematics at the Hong Kong
+University of Science and Technology (HKUST) supervised by
+[Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu).
 
 My research focuses on **quantitative finance**, with a strong emphasis on:
+
 - **Interest Rate Modeling** (post-LIBOR frameworks)
-- **Derivatives Pricing** (fixed income & equity) 
+- **Derivatives Pricing** (fixed income & equity)
 - **Data-Driven Financial Modeling**
 
-I am currently focused on applying **Reinforcement Learning** to quantitative 
+I am currently focused on applying **Reinforcement Learning** to quantitative
 finance, particularly in optimal hedging and portfolio allocation.
 
 I am also curious about:
+
 - Generative AI in finance
 - Crypto arbitrage strategies
 
