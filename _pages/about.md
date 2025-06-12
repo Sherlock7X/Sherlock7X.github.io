@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Wencan Xia, a PhD candidate in Financial Mathematics at the Hong Kong
+Hi, I am Wencan Xia (夏文灿), a PhD candidate in Financial Mathematics at the Hong Kong
 University of Science and Technology (HKUST) supervised by
 [Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu).
 
@@ -42,8 +42,8 @@ finance, particularly in optimal hedging and portfolio allocation.
 
 I am also curious about:
 
-- Generative AI in finance
-- Crypto arbitrage strategies
+- Generative AI in finance.
+- Crypto arbitrage strategies.
 
 Welcome to connect me by [email](mailto: wxiaab@connect.ust.hk) or on [Linkedin](https://www.linkedin.com/in/wencan-xia-014143268/).
 
