@@ -8,6 +8,6 @@ children:
   - title: bookshelf
     permalink: /books/
   - title: divider
-  - title: cv
-    permalink: /cv/
+  - title: repositories
+    permalink: /repositories/
 ---

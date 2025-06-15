@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: This part is still under construction.
-nav: true
+nav: false
 nav_order: 3
 ---
 
