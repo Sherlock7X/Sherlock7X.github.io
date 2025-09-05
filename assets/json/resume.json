@@ -28,8 +28,9 @@
       "location": "Hong Kong",
       "position": "Quantitative Finance Summer Associate",
       "startDate": "2025-06",
-      "endDate": "Now",
-      "summary": "Working on the equity derivatives trading desk."
+      "endDate": "2025-08",
+      "summary": "Working as equity derivatives strats team summer intern.",
+      "highlights": "Return offer received."
     }
   ],
   "education": [
@@ -68,7 +69,7 @@
   "publications": [
     {
       "name": "SOFR Futures Pricing under Affine Term Structure Models with Scheduled Jumps",
-      "publisher": "Submitted to Wilmott Magazine, Minor Revision",
+      "publisher": "Accepted by Wilmott Magazine",
       "summary": "This paper presents a comprehensive framework for pricing SOFR futures under affine jump process, taking account Fed Policy."
     }
   ],
@@ -95,8 +96,8 @@
       "keywords": [
         "Stochastic Calculus",
         "Risk Management",
-        "Financial Derivatives",
-        "Interest Rate Models",
+        "Derivatives Pricing",
+        "Rates Modeling",
         "Backward Stochastic Differential Equations"
       ]
     },
