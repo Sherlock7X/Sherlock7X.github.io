@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Wencan Xia (夏文灿), a PhD candidate in Financial Mathematics at the Hong Kong
+Hi, I am Wencan Xia (夏文灿) [ ʃjɑː wɛn tsæn ], a PhD candidate in Financial Mathematics at the Hong Kong
 University of Science and Technology (HKUST) supervised by
 [Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu).
 
@@ -39,6 +39,8 @@ My research focuses on **quantitative finance**, with a strong emphasis on:
 
 I am currently focused on applying **Reinforcement Learning** to quantitative
 finance, particularly in optimal hedging and portfolio allocation.
+
+I will be joining [Morgan Stanley](https://www.morganstanley.com/) as a Quantitative Strategist in Summer 2026.
 
 I am also curious about:
 

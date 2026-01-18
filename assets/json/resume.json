@@ -29,8 +29,7 @@
       "position": "Quantitative Finance Summer Associate",
       "startDate": "2025-06",
       "endDate": "2025-08",
-      "summary": "Working as equity derivatives strats team summer intern.",
-      "highlights": "Return offer received."
+      "summary": "Equity derivatives strats team (return offer received)."
     }
   ],
   "education": [
@@ -69,7 +68,8 @@
   "publications": [
     {
       "name": "SOFR Futures Pricing under Affine Term Structure Models with Scheduled Jumps",
-      "publisher": "Accepted by Wilmott Magazine",
+      "publisher": "Wilmott, vol. 2026, no. 141, 2026, ISSN: 1541-8286.",
+      "url": "https://wilmott.com/mp-files/wilmott-magazine-january-2026-wu",
       "summary": "This paper presents a comprehensive framework for pricing SOFR futures under affine jump process, taking account Fed Policy."
     }
   ],
@@ -93,13 +93,7 @@
       "name": "Financial Mathematics",
       "level": "",
       "icon": "fa-solid fa-dollar-sign",
-      "keywords": [
-        "Stochastic Calculus",
-        "Risk Management",
-        "Derivatives Pricing",
-        "Rates Modeling",
-        "Backward Stochastic Differential Equations"
-      ]
+      "keywords": ["Stochastic Calculus", "Risk Management", "Derivatives Pricing", "Rates Modeling", "Backward Stochastic Differential Equations"]
     },
     {
       "name": "Programming",
