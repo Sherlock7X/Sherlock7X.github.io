@@ -27,27 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Wencan Xia (夏文灿) [ ʃjɑː wɛn tsæn ], a PhD candidate in Financial Mathematics at the Hong Kong
-University of Science and Technology (HKUST) supervised by
-[Prof. Lixin WU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu).
+Hello! I am Wencan Xia (夏文灿) [ ʃjɑː wɛn tsæn ], a Ph.D. candidate in Financial Mathematics at the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Lixin Wu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=lixin-wu-malwu).
 
-My research focuses on **quantitative finance**, with a strong emphasis on:
+My research is centered around **quantitative finance**, with a strong emphasis on:
 
 - **Interest Rate Modeling** (post-LIBOR frameworks)
 - **Derivatives Pricing** (fixed income & equity)
 - **Data-Driven Financial Modeling**
 
-I am currently focused on applying **Reinforcement Learning** to quantitative
-finance, particularly in optimal hedging and portfolio allocation.
+Currently, my work integrates **Reinforcement Learning** into quantitative finance, tackling complex challenges in optimal hedging and portfolio allocation.
 
-I will be joining [Morgan Stanley](https://www.morganstanley.com/) as a Quantitative Strategist in Summer 2026.
+I look forward to joining [Morgan Stanley](https://www.morganstanley.com/) as a Quantitative Strategist in the summer of 2026.
 
-I am also curious about:
+Beyond my core research, I am also actively exploring:
 
-- Generative AI in finance.
-- Crypto arbitrage strategies.
+- Generative AI applications in finance
+- Cryptocurrency arbitrage strategies
 
-Welcome to connect me by [email](mailto: wxiaab@connect.ust.hk) or on [Linkedin](https://www.linkedin.com/in/wencan-xia-014143268/).
+Feel free to reach out and connect with me via [email](mailto:wxiaab@connect.ust.hk) or [LinkedIn](https://www.linkedin.com/in/wencan-xia-014143268/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
