@@ -6,7 +6,7 @@
     "email": "wxiaab@connect.ust.hk",
     "phone": "",
     "url": "https://sherlock7x.github.io/",
-    "summary": "A PhD candidate in Mathematics curious about the applications of mathematics in quantitative finance and machine learning.",
+    "summary": "PhD in Mathematics curious about the applications of mathematics in quantitative finance and machine learning.",
     "location": {
       "address": "HKUST, Clear Water Bay",
       "postalCode": "",
@@ -29,7 +29,15 @@
       "position": "Quantitative Finance Summer Associate",
       "startDate": "2025-06",
       "endDate": "2025-08",
-      "summary": "Equity derivatives strats team (return offer received)."
+      "summary": "Equity derivatives strats team."
+    },
+    {
+      "name": "Morgan Stanley",
+      "location": "Hong Kong",
+      "position": "Desk Strategist",
+      "startDate": "2026-07",
+      "endDate": "Now",
+      "summary": "Equity derivatives strats team."
     }
   ],
   "education": [
